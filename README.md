@@ -1,6 +1,6 @@
-# Projeto Tela de Login do Facebook
+# Projeto Clone de Tela de Login do Facebook
 
-Este é um projeto que demonstra a criação de uma tela de login simples inspirada no Facebook, utilizando tecnologias web como HTML e CSS.
+Este é um projeto que demonstra a criação de uma tela de login simples inspirada no Facebook, utilizando tecnologias web como HTML e CSS. Fiz para aprimorar minhas habilidades com fins de aprendizado.
 
 ![screencapture-file-C-Users-vanes-Downloads-Aula-27-tarde-master-Aula-27-tarde-master-html-login-html-2023-07-10-15_41_54](https://github.com/sant1ana/Tela-login-facebook/assets/93404790/6dc06ddf-2dd4-4e51-b6d0-cdb80e28005b)
 
